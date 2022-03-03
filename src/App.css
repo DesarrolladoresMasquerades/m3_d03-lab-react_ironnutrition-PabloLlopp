@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.formAddFood {
+  border: 2px solid black;
+  width: 500px;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.575);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
